@@ -1,6 +1,6 @@
 # Wrangling_Marvel_Data_with_Python
 
-![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/Marvel_Characters.png)
+![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/Marvel.jpg)
 ## Project Description
 
 The focus of this project is data wrangling. The data used came from three sources: a flat csv file (downloaded from kaggle.com),
