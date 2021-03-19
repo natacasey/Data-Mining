@@ -26,8 +26,8 @@ Word cloud was used to display the most popular Universes taht Marvel characters
 - The data on marvel.com is not arranged in one table which complicated the way the data was scraped. All of the URL-addresses with the information about Marvel characters from marvel.com sitemap needed to be scraped. The rest of the data was obtained by looping through the URL-addresses and scraping the necessary information. 
 - When pulling the data from the API I had to work with pagination (only 100 observations were allowed per request).  Filtering by publisher couldn't be done when sending a request. I had to pull the information about comic characters from all publishers which resulted in a big number of records. Due to the pagination data pulling took a long time to complete the request. 
 
-## Use
-The final dataset is cleaned and ready for further types analysis, for example, classification analysis.  
+## Future Use
+The final dataset is cleaned and ready for further types of analysis, for example, classification analysis.  
 
 
 
