@@ -1,5 +1,3 @@
-# Wrangling_Marvel_Data_with_Python
-
 ![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/Marvel.jpg)
 ## Project Description
 
