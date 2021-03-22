@@ -11,7 +11,7 @@ Programming language - python 3.7. OS - Windows 10 Home. Library for scraping - 
 
 Resulting dataframe:
 
-![Dataframe](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/final_df.PNG)
+![Dataframe](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/dataframe.PNG)
 
 
 The data was anayzed with the help of visualizations created from the data loaded into SQLite.
