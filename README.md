@@ -15,10 +15,6 @@ Resulting dataframe:
 
 
 The data was anayzed with the help of visualizations created from the data loaded into SQLite.
-![Pie Chart](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/pie_chart.PNG)
-
-
-Word cloud was used to display the most popular Universes taht Marvel characters come from.
 
 ![Word cloud](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/Word_cloud.PNG)
 
