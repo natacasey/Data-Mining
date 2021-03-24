@@ -1,4 +1,4 @@
-![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/marvel_data.png)
+![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/marvel_image.jpg)
 ## Project Description
 
 The focus of this project is data wrangling using data related to Marvel comic characters. Most of the data is categorical data of descriptive nature. 
