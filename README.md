@@ -3,7 +3,7 @@
 
 The focus of this project is data wrangling using data related to Marvel comic characters. Most of the data is categorical data of descriptive nature. 
 The data came from three sources: a flat csv file from [kaggle](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset),
-[ComicVine](https://comicvine.gamespot.com/api/documentation) API, and a website [marvel.com](https://www.marvel.com/characters).
+[ComicVine API](https://comicvine.gamespot.com/api/documentation), and a website [marvel.com](https://www.marvel.com/characters).
 After the three sources have been processed using pandas, regex, fuzzy matching, deduplication and other techniques, they were merged by character name and loaded into an SQLite database. 
 
 ## Development
