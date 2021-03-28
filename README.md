@@ -1,10 +1,13 @@
 ![Marvel Characters](https://github.com/natacasey/Wrangling_Marvel_Data_with_Python/blob/master/_assets/marveldata.gif)
-## Project Description
+## Project Description and data
 
 The focus of this project is data wrangling using data related to Marvel comic characters. Most of the data is categorical data of descriptive nature. 
 The data came from three sources: a flat csv file from [kaggle](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-comic-characters-dataset),
 [ComicVine API](https://comicvine.gamespot.com/api/documentation), and a website [marvel.com](https://www.marvel.com/characters).
 After the three sources have been processed using pandas, regex, fuzzy matching, deduplication and other techniques, the dataframes were merged by a character name and loaded into an SQLite database. 
+
+## Documentation
+All of the documentation is stored in the docs folder. 
 
 ## Development
 Programming language - python 3.7. 
